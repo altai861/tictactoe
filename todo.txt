@@ -1,1 +1,2 @@
-Now add AI to play AI with you.
+1. Now add AI to play AI with you.
+2. Add a picture of the project to the readme.md
